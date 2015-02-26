@@ -8,7 +8,7 @@
   {
     " remote": "TeamBliss-Devices", 
     "repository": "android_kernel_samsung_hlte",
-    "target_path": "kernel/samsung/hlte"
+    "target_path": "kernel/samsung/hlte",
     "revision": "cm-12.0"
   }
 ]
